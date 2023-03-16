@@ -1,3 +1,4 @@
+MYPIA - **My Personal Intelligent Assistant**
 * Once you started the app for the first time, Go to APIConfig and paste the openai api key and save it.
 
 * It will create a file called api_key that save the binary data.
