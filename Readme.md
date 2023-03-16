@@ -1,4 +1,4 @@
-MYPIA - **My Personal Intelligent Assistant**
+MYPIA - **My Personal Intelligent Assistant Bot**
 
 * This app interacts with open ai chat-gpt.
 
