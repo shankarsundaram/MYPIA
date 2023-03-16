@@ -10,5 +10,5 @@ MYPIA - **My Personal Intelligent Assistant Bot**
 
 * A file called gpt_response in the same directory will be created to save your chat transcript with chat-gpt.
 
-* Use shortcut keys **<RETURN>/ENTER** to send & **<Control-C>** to clear.
+* Use shortcut keys **RETURN/ENTER** to send & **Control-C** to clear.
 
