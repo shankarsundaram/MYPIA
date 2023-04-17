@@ -1,4 +1,4 @@
-MYPIA - **My Personal Intelligent Assistant Bot**
+MYPIA - **My Personal Intelligent Assistant Bot** For Windows
 
 * This app interacts with open ai chat-gpt.
 
